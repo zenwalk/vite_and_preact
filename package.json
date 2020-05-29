@@ -1,0 +1,16 @@
+{
+  "name": "vite_and_preact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --jsx-factory=h"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "preact": "^10.4.4",
+    "vite": "^0.18.1"
+  }
+}
