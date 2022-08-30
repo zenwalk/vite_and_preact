@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "preact": "^10.4.4",
-    "vite": "^0.18.1"
+    "vite": "^2.9.13"
   }
 }
